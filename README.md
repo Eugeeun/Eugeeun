@@ -17,6 +17,7 @@
 ![react](https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 **🛠️ Tools**
